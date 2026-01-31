@@ -1,0 +1,5 @@
+{
+  "name": "CareerStory AI",
+  "description": "An interview preparation tool that helps you document successful and failed projects to generate a compelling 'Why hire me?' pitch using Gemini AI.",
+  "requestFramePermissions": []
+}
